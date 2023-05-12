@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">laboratorio_08</string>
+    <string name="billboard_title">Billboard</string>
+
+    <string name="name_label">Name</string>
+    <string name="category_field">Category</string>
+    <string name="decription_field">Description</string>
+    <string name="qualification_field">Qualification</string>
+    <string name="add_item">Add movie</string>
+    <string name="new_item">New Movie</string>
+
+    <string name="movie_title_star_wars">Star Wars: Episode III – Revenge of the Sith</string>
+    <string name="movie_description_star_wars">Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.</string>
+    <string name="movie_category_science_fiction">Science Fiction</string>
+    <string name="movie_qualification_star_wars">9.8</string>
+
+    <string name="movie_title_harry_potter">Harry Potter and the philosophers stone</string>
+    <string name="movie_description_harry_potter">Harry Potter has lived under the stairs at his aunt and uncles house his whole life. But on his 11th birthday, he learns hes a powerful wizard - with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the schools kindly headmaster, Harry uncovers the truth about his parents deaths - and about the villain whos to blame.</string>
+    <string name="movie_category_fantasy">Fantasy</string>
+    <string name="movie_qualification_harry_potter">9.5</string>
+    <string name="button_submit">SUBMIT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
